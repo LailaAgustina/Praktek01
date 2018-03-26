@@ -11,6 +11,8 @@ package praktek01;
  */
 public class TasAksi {
     public static void main(String[] args) {
-        
+        Tas A = new Tas();
+        Tas B = new Tas();
+        Tas C = new Tas();
     }
 }
