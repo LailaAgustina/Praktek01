@@ -14,5 +14,24 @@ public class TasAksi {
         Tas A = new Tas();
         Tas B = new Tas();
         Tas C = new Tas();
+        
+        A.ukuran="36cm x 27cm x 10cm";
+        A.merk="zara chain";
+        A.model="tas selempang";
+        A.bahan="beludru";
+        A.warna="hitam";
+        
+        B.ukuran="30cm x 12cm x 45cm";
+        B.merk="jeansport";
+        B.model="tas sekolah";
+        B.bahan="cordura";
+        B.warna="merah";
+        
+        
+        C.ukuran="37cm x 27cm x 14cm";
+        C.merk="alexsa";
+        C.model="tas selempangh";
+        C.bahan="rajut";
+        C.warna="coklat bata";
     }
 }
