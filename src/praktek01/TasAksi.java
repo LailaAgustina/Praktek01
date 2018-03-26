@@ -33,5 +33,11 @@ public class TasAksi {
         C.model="tas selempangh";
         C.bahan="rajut";
         C.warna="coklat bata";
+        
+        A.cetakInfo();
+        System.out.println();
+        B.cetakInfo();
+        System.out.println();
+        C.cetakInfo();
     }
 }
